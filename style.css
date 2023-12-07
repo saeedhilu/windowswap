@@ -1,0 +1,202 @@
+body{
+    margin: 0;
+}
+.header{
+    background-image: url(asset\ 0.gif);
+    height: 550px;
+ 
+}
+.heading{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+.leftpart,.rightpart{
+    display: flex;
+    justify-content: space-between;
+    width: 370px;
+  
+}
+#cup{
+    color: bisque;
+}
+#c1{
+    
+}
+#login{
+    width: 250px;
+    text-align: end;
+    cursor: pointer;
+
+}
+#submitr{
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+#coffee{
+    margin-top: 10px;
+    background-color: #ca7358;
+    border-radius: 60px;
+    color: white;
+    cursor: pointer;
+}
+.cofee{
+    padding-left: 20px;
+    width: 115px;
+    height: 35px;
+    margin-top: 13px;
+    margin-left: 36px;
+    
+    display: flex;
+    border: solid 1px;
+    border-radius: 50px;
+    background-color: #ca7358;
+    cursor: pointer;
+}
+#l1{
+    margin-left: 10px;
+    cursor: pointer;
+}#l1:hover{
+    text-decoration: underline white 1px;
+}
+#open{
+    display: flex;
+    color: white;
+    justify-content: center;
+    margin-top: 150px;
+    border: solid 1px;
+    margin-left: 400px;
+    width: 42%;
+    border-radius: 50px;
+    cursor: pointer;
+}
+#cup{
+    margin-top: 7px;
+    height: 20px;
+}
+.second{
+    background-color:#1b4653;
+   
+}
+.secondinside{
+    display: flex;
+}
+#cat{
+    margin-top: 45px;
+    margin-bottom: 45px;
+    width: 850px;
+    margin-left: 190px;
+}
+.secondcontent{
+    width: 13%;
+    margin-top: 45px;
+    color: white;
+    margin-left: 30px;
+}
+#windows{
+    color: #ffffff;
+    height: 13%;
+    border-bottom: solid 1px white
+}
+#get{
+    color: #d89770;
+    margin-top: 55px;
+    font-size: 20px;
+}
+#upgrade{
+    color: white;
+    border: 1px solid;
+    border-radius: 50px;
+    height: 30px;
+    width: 142px;
+    line-height: 30px;
+    background-color: #ca7358;
+    cursor: pointer;
+}
+.flower{
+    background-color: #ca7358;
+}
+.books{
+    display: flex;
+    justify-content: center;
+}
+#book{
+    width: 260px;
+}
+#help{
+    color: white;
+    font-size: 20px;
+    font-family: "Recoleta Regular";
+}
+#care{
+    display: flex;
+    border: solid 1px;
+    border-radius: 50px;
+    justify-content: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 31px;
+    line-height: 30px;
+    background: #265d6e;
+    cursor: pointer;
+}
+.house{
+    display: flex;
+    background-image: url(asset\ 6.png);
+    background-size: cover;
+    height: 817px;
+}
+.jar{
+    color: white;
+    width: 100%;
+    margin-left: 30%;
+    margin-top: 400px;
+}
+#tip{
+    color: #ffffff;
+    margin-left: 180px;
+    font-size: 50px;
+    font-family: "Recoleta Bold";
+
+}
+#send{
+    color:white;
+    font-family: "Recoleta Medium";
+    font-size: 18px;
+    margin-left: 100px;
+
+}
+#find{
+    background-color: white;
+    color:#265d6e ;
+    border: solid 1px lightskyblue;
+    width: 15%;
+    margin-left: 225px;
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+    border-radius: 50px;
+    cursor: pointer;
+
+}
+#find:hover{
+    border-color: palevioletred;
+
+}
+#video{
+    margin-top: 40px;
+    width: 55%;
+    margin-left: 140px;
+    cursor: pointer;
+}
+.icons{
+    display: flex;
+    margin-left: 350px;
+    width: 45%;
+    justify-content: space-between;
+    cursor: pointer;
+}
