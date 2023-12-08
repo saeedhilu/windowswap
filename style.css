@@ -146,7 +146,7 @@ body{
 }
 .house{
     display: flex;
-    background-image: url(asset\ 6.png);
+    background-image: url(images/asset\ 6.png);
     background-size: cover;
     height: 817px;
 }
